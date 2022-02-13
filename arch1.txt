@@ -1,0 +1,3 @@
+fichero 1
+aniado texto
+cambio
