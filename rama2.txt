@@ -1,0 +1,3 @@
+aniado fichero2
+ una linea 
+otra linea 
